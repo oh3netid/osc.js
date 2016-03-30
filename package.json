@@ -19,7 +19,6 @@
         "music",
         "Web Socket",
         "UDP",
-        "serial",
         "TCP"
     ],
     "readmeFilename": "README.md",
@@ -38,7 +37,6 @@
     "dependencies": {
         "wolfy87-eventemitter": "4.3.0",
         "long": "3.0.3",
-        "serialport": "2.0.6",
         "slip": "1.0.2",
         "ws": "1.0.1"
     },
